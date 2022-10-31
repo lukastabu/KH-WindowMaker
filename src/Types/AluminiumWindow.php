@@ -2,9 +2,9 @@
 
 namespace WindowMaker\Types;
 
-use WindowMaker\AbstractWindow;
+use WindowMaker\Interfaces\WindowInterface;
 
-class AluminiumWindow extends AbstractWindow
+class AluminiumWindow implements WindowInterface
 {
 
     public function material(): string
