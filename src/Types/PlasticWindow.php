@@ -12,9 +12,4 @@ class PlasticWindow implements WindowInterface
         // TODO: Implement material() method.
         return 'I am plastic window';
     }
-
-    public function fitter()
-    {
-        // TODO: Implement fitter() method.
-    }
 }

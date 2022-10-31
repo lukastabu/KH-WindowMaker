@@ -12,10 +12,4 @@ class AluminiumWindow implements WindowInterface
         // TODO: Implement material() method.
         return 'I am aluminium window';
     }
-
-
-    public function fitter()
-    {
-        // TODO: Implement fitter() method.
-    }
 }
